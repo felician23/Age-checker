@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+    color: rgb(232,206,77);
+}
+
+h2 {
+    padding-top: 1em;
+    padding-left: 1em;
+    font-weight: bolder;
+    font-size: 2em;
+}
+.pictures-ride {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    padding-bottom: 1em;
+}
+
+.horse {
+    display: block;
+}
+
+.horse-input {
+    display: block;
+    margin: 0 auto;
+}
